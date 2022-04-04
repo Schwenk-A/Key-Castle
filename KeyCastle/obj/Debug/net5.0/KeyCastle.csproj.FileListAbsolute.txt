@@ -1,0 +1,16 @@
+C:\Users\Andrea\source\repos\KeyCastle\KeyCastle\obj\Debug\net5.0\KeyCastle.csproj.AssemblyReference.cache
+C:\Users\Andrea\source\repos\KeyCastle\KeyCastle\obj\Debug\net5.0\KeyCastle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\source\repos\KeyCastle\KeyCastle\obj\Debug\net5.0\KeyCastle.AssemblyInfoInputs.cache
+C:\Users\Andrea\source\repos\KeyCastle\KeyCastle\obj\Debug\net5.0\KeyCastle.AssemblyInfo.cs
+C:\Users\Andrea\source\repos\KeyCastle\KeyCastle\obj\Debug\net5.0\KeyCastle.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\source\repos\KeyCastle\KeyCastle\bin\Debug\net5.0\KeyCastle.exe
+C:\Users\Andrea\source\repos\KeyCastle\KeyCastle\bin\Debug\net5.0\KeyCastle.deps.json
+C:\Users\Andrea\source\repos\KeyCastle\KeyCastle\bin\Debug\net5.0\KeyCastle.runtimeconfig.json
+C:\Users\Andrea\source\repos\KeyCastle\KeyCastle\bin\Debug\net5.0\KeyCastle.runtimeconfig.dev.json
+C:\Users\Andrea\source\repos\KeyCastle\KeyCastle\bin\Debug\net5.0\KeyCastle.dll
+C:\Users\Andrea\source\repos\KeyCastle\KeyCastle\bin\Debug\net5.0\KeyCastle.pdb
+C:\Users\Andrea\source\repos\KeyCastle\KeyCastle\obj\Debug\net5.0\KeyCastle.dll
+C:\Users\Andrea\source\repos\KeyCastle\KeyCastle\obj\Debug\net5.0\refint\KeyCastle.dll
+C:\Users\Andrea\source\repos\KeyCastle\KeyCastle\obj\Debug\net5.0\KeyCastle.pdb
+C:\Users\Andrea\source\repos\KeyCastle\KeyCastle\obj\Debug\net5.0\KeyCastle.genruntimeconfig.cache
+C:\Users\Andrea\source\repos\KeyCastle\KeyCastle\obj\Debug\net5.0\ref\KeyCastle.dll

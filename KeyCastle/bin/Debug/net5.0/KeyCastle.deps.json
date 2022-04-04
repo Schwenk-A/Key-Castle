@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "KeyCastle/1.0.0": {
+        "runtime": {
+          "KeyCastle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KeyCastle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
